@@ -1,5 +1,5 @@
 module.exports = {
-  BOOK_DAY_NEAREST: 3,
+  BOOK_DAY_NEAREST: 1,
   BOOK_DAY_FARTHEST: 9,
   // inclusive
   BOOK_HOUR_START: 8,
