@@ -9,10 +9,10 @@
 
 ## 预约方式
 
-首先登录[北京大学物理学院主动学习实验室预约系统网站](https://bookb116.phy.pku.edu.cn)，在登录页面中输入自己的学号，并点击获取验证码，验证码将会发送至你的 PKU 邮箱。输入验证码，即可登录预约系统。
+首先登录[北京大学物理学院主动学习实验室预约系统网站](https://bookb116.phy.pku.edu.cn)，在跳转由学工部搭建的[物理学院统一身份认证](https://auth.phy.pku.edu.cn/)后便可登录。
 
 <p align="center">
-<img src="https://www.pkuphy.cn/physu/play/img/howto/login.jpg">
+<img src="https://bookb116.phy.pku.edu.cn/img/login.png">
 <br>
 图 1 登录页面
 </p>
@@ -22,16 +22,16 @@
 
 
 <p align="center">
-<img src="https://www.pkuphy.cn/physu/play/img/howto/index.jpg">
+<img src="https://bookb116.phy.pku.edu.cn/img/index.jpg">
 <br>
 图 2 预约开始界面
 </p>
 
 
-进入新建预约界面以后，可以看到图3所示的预约界面。首先在选择日期一项中选择自己要预约的日期，再在选择自己要预约四个房间中的具体时间段。实验室的开放时间为上午八点到晚上十点，且一次预约最多只能预约连续四个小时的时间。已被预约的时间段会显示已预约。之后再在预约系统填写中，填写自己的预约信息，提交即可完成预约。一位同学最多只能同时有两次未进行的预约。
+进入新建预约界面以后，可以看到图3所示的预约界面。首先在选择日期一项中选择自己要预约的日期，再在选择自己要预约四个房间中的具体时间段。实验室的开放时间为上午八点到晚上十点，且一次预约最多只能预约连续四个小时的时间。已被预约的时间段会显示已预约。之后再在预约系统填写中，填写自己的预约信息，提交即可完成预约。一位同学最多只能同时有两次未进行的预约（包括当天的）。
 
 <p align="center">
-<img src="https://www.pkuphy.cn/physu/play/img/howto/booking.jpg">
+<img src="https://bookb116.phy.pku.edu.cn/img/booking.jpg">
 <br>
 图 3 新建预约界面
 </p>
