@@ -22,7 +22,7 @@
 
 
 <p align="center">
-<img src="https://bookb116.phy.pku.edu.cn/img/index.jpg">
+<img src="https://bookb116.phy.pku.edu.cn/img/index.png">
 <br>
 图 2 预约开始界面
 </p>
@@ -31,13 +31,13 @@
 进入新建预约界面以后，可以看到图3所示的预约界面。首先在选择日期一项中选择自己要预约的日期，再在选择自己要预约四个房间中的具体时间段。实验室的开放时间为上午八点到晚上十点，且一次预约最多只能预约连续四个小时的时间。已被预约的时间段会显示已预约。之后再在预约系统填写中，填写自己的预约信息，提交即可完成预约。一位同学最多只能同时有两次未进行的预约（包括当天的）。
 
 <p align="center">
-<img src="https://bookb116.phy.pku.edu.cn/img/booking.jpg">
+<img src="https://bookb116.phy.pku.edu.cn/img/booking.png">
 <br>
 图 3 新建预约界面
 </p>
 
 <p align="center">
-<img src="https://www.pkuphy.cn/physu/play/img/howto/lobby.jpg">
+<img src="https://bookb116.phy.pku.edu.cn/img/lobby.jpg">
 <br>
 大厅
 </p>
@@ -45,7 +45,7 @@
 
 
 <p align="center">
-<img src="https://www.pkuphy.cn/physu/play/img/howto/sofaA.jpg">
+<img src="https://bookb116.phy.pku.edu.cn/img/sofaA.jpg">
 <br>
 沙发室A
 </p>
@@ -53,13 +53,13 @@
 
 
 <p align="center">
-（忘拍照片了，中间那一个有两个沙发的大房间）
+<img src="https://bookb116.phy.pku.edu.cn/img/sofaB.jpg">
 <br>
 沙发室B
 </p>
 
 <p align="center">
-<img src="https://www.pkuphy.cn/physu/play/img/howto/sofaC.jpg">
+<img src="https://bookb116.phy.pku.edu.cn/img/sofaC.jpg">
 <br>
 沙发室C
 </p>
