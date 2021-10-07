@@ -5,12 +5,12 @@
         <p>预约须知：</p>
         <ol>
           <li>
-            使用教室须提前 {{ BOOK_DAY_NEAREST }} - {{ BOOK_DAY_FARTHEST }} 天预约。
+            使用教室须提前预约。
             <!-- 预约时须再邀请 2 名同学并通知他们确认，才能预约成功。
             未能提前 {{ BOOK_DAY_NEAREST }} - {{ BOOK_DAY_FARTHEST }} 天完成确认的，
             视为放弃预约。 -->
           </li>
-          <li>如要取消预约或修改预约，请提前 {{ BOOK_DAY_NEAREST }} 天以上取消原有预约。</li>
+          <li>如要取消预约或修改预约，请提前取消原有预约。</li>
         </ol>
         <div class="text-right">
           <router-link to="/html/howto">
