@@ -39,6 +39,7 @@ module.exports = {
     'Number of students invalid': '参与学生太多或太少',
     'Description too long': '描述太长了（256字以内）',
     'Vercode needed': '请填写验证码',
-    'Successfully Booked': '预约成功！'
+    'Successfully Booked': '预约成功！',
+    'Successfully Canceled': '取消成功！'
   }
 }
