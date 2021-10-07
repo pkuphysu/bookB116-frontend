@@ -53,7 +53,7 @@
       <p>参与人数：{{ record.studentNumber }}</p>
       <p>用途：{{ record.description }}</p>
     </b-list-group-item>
-    <b-list-group-item
+    <!-- <b-list-group-item
       v-for="student in record.confirmStatus.slice(1)"
       :key="student.studentId"
     >
@@ -88,7 +88,7 @@
       >
         未确认
       </b-button>
-    </b-list-group-item>
+    </b-list-group-item> -->
   </b-list-group>
 </template>
 

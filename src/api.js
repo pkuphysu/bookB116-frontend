@@ -90,7 +90,8 @@ export default {
     )
   },
   cancel: async (book_id, vercode) =>
-    await requestApi('post', '/api/booking/cancel', true, { book_id, vercode }),
-  confirm: async book_id =>
-    await requestApi('post', '/api/booking/confirm', true, { book_id })
+    await requestApi('post', '/api/booking/cancel', true, { book_id, vercode })
+  // confirm: async book_id =>
+  //   await requestApi('post', '/api/booking/confirm', true, { book_id })
+  // confirm 功能已被取消
 }
