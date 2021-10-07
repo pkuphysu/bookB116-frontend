@@ -15,8 +15,8 @@ export default new Vuex.Store({
       state.alertMessages.push(msg)
     },
     auth (state, payload) {
-      state.user = payload.user;
-      localStorage.setItem('user', JSON.stringify(payload.user));
+      state.user = payload.user
+      localStorage.setItem('user', JSON.stringify(payload.user))
       sessionStorage.removeItem('user')
     },
     logout (state) {
