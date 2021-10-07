@@ -23,6 +23,15 @@ const routes = [
     }
   },
   {
+    path: '/auth',
+    name: 'auth',
+    component: () => import(/* webpackChunkName: "login" */ '@/views/Auth'),
+    meta: {
+      title: '正在认证中~',
+      loginRequired: false
+    }
+  },
+  {
     path: '/',
     name: 'bookingIndex',
     component: () =>

@@ -7,11 +7,14 @@ module.exports = {
   BOOK_MAX_SELECT: 4,
   B116ROOMS: ['大厅', '沙发室A', '沙发室B', '沙发室C'],
   TRANSLATION: {
-    'Network Error': '网络可能开了小差。。',
+    'Network Error': '网络可能开了小差……',
     'Fatal Error': '服务器不听话了，可通过问题反馈渠道告诉管理员',
     Unauthorized: '登录信息无效或过期',
     'Logged In': '成功登录',
+    Redirecting: '正在跳转页面……',
     'Vercode Sent': '验证码已发送至北大邮箱！',
+    'Login First': '请先通过物理学院身份认证平台认证！',
+    'Auth Fail': '认证失败，请重新认证',
     'Get Code First': '请先获取验证码',
     'Invalid Student ID': '学号打错了？',
     'Please log in to access this page.': '请先登录',
@@ -33,7 +36,9 @@ module.exports = {
     'Name length invalid': '姓名的长度错误',
     'Sponsor too long': '发起人太长了',
     'Not a phone number': '电话号码格式错误',
-    'Students too few': '参与学生太少了',
-    'Description too long': '描述太长了（256字以内）'
+    'Number of students invalid': '参与学生太多或太少',
+    'Description too long': '描述太长了（256字以内）',
+    'Vercode needed': '请填写验证码',
+    'Successfully Booked': '预约成功！'
   }
 }

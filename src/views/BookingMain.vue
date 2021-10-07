@@ -162,7 +162,7 @@ export default {
     },
     async sendVercode () {
       this.countDown = 5
-      await api.twiceVercode()
+      await api.vercode()
       while (--this.countDown) await sleep(1000)
     },
     /**

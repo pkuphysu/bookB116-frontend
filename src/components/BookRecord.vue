@@ -162,7 +162,7 @@ export default {
   methods: {
     async cancel () {
       this.countDown = 3
-      await api.twiceVercode()
+      await api.vercode()
       while (--this.countDown) await sleep(1000)
     },
     async submit () {

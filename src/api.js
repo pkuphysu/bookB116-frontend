@@ -64,14 +64,13 @@ const requestApi = async (method, url, login, data) => {
 }
 
 export default {
-  loginVercode: async stu_id =>
-    await requestApi('post', '/api/vercode', false, { stu_id }),
-  twiceVercode: async () => {
+  vercode: async () => {
     const rawId = store.state.user.rawId
-    return await requestApi('get', '/api/twice_vercode?rawId=' + rawId, true)
+    return await requestApi('get', '/api/vercode?rawId=' + rawId, true)
   },
-  login: async vercode =>
-    await requestApi('post', '/api/login', false, { vercode }),
+  login: async () => await requestApi('get', '/api/login', false),
+  auth: async queryString =>
+    await requestApi('post', '/api/auth', false, { queryString }),
   fullLogout: async => requestApi('get', '/api/logout', true),
   bookingStatus: async () => {
     const resp = await requestApi('get', '/api/booking/my', true)
